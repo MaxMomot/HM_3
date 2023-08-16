@@ -3,3 +3,30 @@
   padding: 0;
   box-sizing: border-box;
 }
+section {
+  color: rgb(14, 196, 203);
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin-left: 15px;
+}
+h1 {
+  color: rgb(72, 0, 0);
+}
+.button {
+  background-color: #ff9900;
+}
+header {
+  font-size: 24px;
+  color: rgb(255, 0, 0);
+}
+.p {
+  color: rgb(44, 44, 217);
+  text-decoration: underline;
+}
+a {
+  color: rgb(20, 123, 20);
+  text-decoration: none;
+}
+#someID {
+  color: #22a233;
+}
